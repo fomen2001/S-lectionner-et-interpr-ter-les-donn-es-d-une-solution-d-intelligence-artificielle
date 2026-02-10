@@ -1,0 +1,11 @@
+lead_id,date,channel,company_size,sector,region,status
+201,2025-10-02,Emailing,1-10,SaaS,Île-de-France,MQL
+202,2025-10-03,Google Ads,10-50,Industry,Hauts-de-France,SQL
+203,2025-10-04,LinkedIn Ads,50-100,Finance,PACA,Client
+204,2025-10-05,Emailing,1-10,HealthTech,Occitanie,MQL
+205,2025-10-06,Google Ads,100-500,Retail,Auvergne-Rhône-Alpes,SQL
+206,2025-10-07,LinkedIn Ads,50-100,SaaS,Île-de-France,Client
+207,2025-10-08,Emailing,10-50,Education,Nouvelle-Aquitaine,MQL
+208,2025-10-09,Google Ads,100-500,Industry,Grand Est,SQL
+209,2025-10-10,LinkedIn Ads,50-100,Finance,Île-de-France,Client
+210,2025-10-11,Emailing,1-10,SaaS,Bretagne,MQL
